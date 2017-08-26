@@ -1,0 +1,40 @@
+@media screen and (max-width: 1250px) {
+	.nav-ul li,.N-cont,.recon{
+		display: none;
+	}
+	.nav-ul .nul-li{
+		display: block;
+	}
+	.navcont,.bgc2,.c4-pa,.conmre,.autcon,.sop-cont{
+		width: 880px;
+	}
+	.bgc2{
+		height: 2400px;
+	}
+	.comre-bot{
+		width: 860px;
+	}
+	
+}
+@media screen and (max-width:950px) {
+	.navcont,.bgc2,.c4-pa,.autcon,.sop-cont,.autc-top{
+		width: 580px;
+		}
+		.nav-ul{
+		width: 55px;	
+		}
+		.bgc2{
+			height: 3585px;
+		}
+		.conmre{
+		width: 593px;	
+		}
+		.comre-bot{
+			width: 573px;
+			height: 263px;
+		}
+		.autc-qq{
+			margin-top:5px ;
+			margin-left: 0px;
+		}
+}
